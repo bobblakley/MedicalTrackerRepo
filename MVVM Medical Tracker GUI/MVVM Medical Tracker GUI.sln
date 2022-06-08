@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVVM Medical Tracker GUI", "MVVM Medical Tracker GUI.csproj", "{06CA93A9-32FA-4C83-9263-D2304B12C672}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroMvvm", "..\MicroMvvm\MicroMvvm.csproj", "{B9E80824-44B5-4E93-B5E9-6EEBF0CD9C4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CA93A9-32FA-4C83-9263-D2304B12C672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CA93A9-32FA-4C83-9263-D2304B12C672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CA93A9-32FA-4C83-9263-D2304B12C672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CA93A9-32FA-4C83-9263-D2304B12C672}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E80824-44B5-4E93-B5E9-6EEBF0CD9C4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E80824-44B5-4E93-B5E9-6EEBF0CD9C4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E80824-44B5-4E93-B5E9-6EEBF0CD9C4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E80824-44B5-4E93-B5E9-6EEBF0CD9C4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BECB4821-395C-47FD-9970-121799D56800}
+	EndGlobalSection
+EndGlobal
